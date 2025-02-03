@@ -1,0 +1,7 @@
+# Ignorar pasta bin (arquivos compilados)
+bin/
+
+# Ignorar configurações do Eclipse
+.settings/
+.classpath
+.project
